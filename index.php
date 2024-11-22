@@ -14,7 +14,7 @@
         .header {
             background: #35424a;
             color: #ffffff;
-            padding: 20px;
+            padding: 25px;
             text-align: center;
         }
         .container {
